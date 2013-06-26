@@ -23,6 +23,7 @@
 		75EE16A31778801C007A73D3 /* CJSONSerializer.m in Sources */ = {isa = PBXBuildFile; fileRef = 75EE169E1778801C007A73D3 /* CJSONSerializer.m */; };
 		75EE16A41778801C007A73D3 /* NSDictionary_JSONExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 75EE16A11778801C007A73D3 /* NSDictionary_JSONExtensions.m */; };
 		75EE16AA1778ABD1007A73D3 /* QuestionBoardManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 75EE16A91778ABD1007A73D3 /* QuestionBoardManager.m */; };
+		D95CE47E177B2FEE000F0C0C /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = D95CE47D177B2FEE000F0C0C /* Test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,8 @@
 		75EE16AB1778ABE3007A73D3 /* QuestionBoardManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = QuestionBoardManager.h; path = Model/QuestionBoardManager.h; sourceTree = "<group>"; };
 		75EE16AC1778ABFB007A73D3 /* Question_board.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = Question_board.m; path = Model/Question_board.m; sourceTree = "<group>"; };
 		75EE16AD1778ABFB007A73D3 /* Question_board.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Question_board.h; path = Model/Question_board.h; sourceTree = "<group>"; };
+		D95CE47C177B2FEE000F0C0C /* Test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Test.h; path = Model/Test.h; sourceTree = "<group>"; };
+		D95CE47D177B2FEE000F0C0C /* Test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Test.m; path = Model/Test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +140,8 @@
 				75EE16AD1778ABFB007A73D3 /* Question_board.h */,
 				7577CA781776DD2F00A0D943 /* Question.h */,
 				7577CA791776DD2F00A0D943 /* Question.m */,
+				D95CE47C177B2FEE000F0C0C /* Test.h */,
+				D95CE47D177B2FEE000F0C0C /* Test.m */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -236,6 +241,7 @@
 				75EE16A31778801C007A73D3 /* CJSONSerializer.m in Sources */,
 				75EE16A41778801C007A73D3 /* NSDictionary_JSONExtensions.m in Sources */,
 				75EE16AA1778ABD1007A73D3 /* QuestionBoardManager.m in Sources */,
+				D95CE47E177B2FEE000F0C0C /* Test.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
